@@ -16,9 +16,9 @@ docker run -i -d --rm -p 2222:22 brun/os-unix-labs
 
 Connect via SSH Client
 ```
-ssh root@194.44.112.100 -p 2222
+ssh root@127.0.0.10 -p 2222
 ```
-Password: root
+Password: ```root```
 
 
 If You want you can change port 2222 to own.
