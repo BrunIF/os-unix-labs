@@ -14,7 +14,7 @@ docker pull brun/os-unix-labs
 docker run -i -d -p 2222:22 brun/os-unix-labs
 ```
 
-Connect via SSH Client
+### Connect via SSH Client
 
 ```
 ssh root@127.0.0.10 -p 2222
